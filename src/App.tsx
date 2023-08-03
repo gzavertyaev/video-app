@@ -1,7 +1,5 @@
 function App() {
-  return (
-   <>Video app</>
-  );
+  return <>Video app</>;
 }
 
 export default App;
