@@ -1,7 +1,6 @@
 import styled, { keyframes } from 'styled-components';
 
 import { Loading_Icon } from 'assets';
-import { colors } from 'styles';
 
 const rotateAnimation = keyframes`
   0% {
@@ -17,7 +16,6 @@ export const SpinnerWrapper = styled.div`
   justify-content: center;
   align-items: center;
   flex: 1;
-  background-color: ${colors.WHITE};
 `;
 
 export const StyledSpinner = styled(Loading_Icon)`
