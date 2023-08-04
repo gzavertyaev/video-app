@@ -1,5 +1,11 @@
+import { VideoPage } from 'pages';
+
 function App() {
-  return <>Video app</>;
+  return (
+    <>
+      <VideoPage />
+    </>
+  );
 }
 
 export default App;
