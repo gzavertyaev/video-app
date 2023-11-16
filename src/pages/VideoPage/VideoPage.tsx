@@ -28,7 +28,12 @@ function VideoPage() {
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
 
-  return <VideoPageWrapper>{loading ? <Spinner /> : videoContent}</VideoPageWrapper>;
+  return (
+    <VideoPageWrapper>
+      <div>Player</div>
+      {loading ? <Spinner /> : videoContent}
+    </VideoPageWrapper>
+  );
 }
 
 export default VideoPage;
