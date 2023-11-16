@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "./static/js/main.6a7ce822.js",
+    "static/js/787.898e1469.chunk.js": "./static/js/787.898e1469.chunk.js",
+    "static/media/Pause.svg": "./static/media/Pause.e52c701b279067ad175a4d98c22b8f10.svg",
+    "static/media/Volume.svg": "./static/media/Volume.b973cdfb7f61314298e2cb4dfa4848cb.svg",
+    "static/media/VolumeOff.svg": "./static/media/VolumeOff.f97eccee7ac728519869db99a74612df.svg",
+    "static/media/Play.svg": "./static/media/Play.3cdaa204a2255352870a96b57dec638d.svg",
+    "static/media/FullscreenExit.svg": "./static/media/FullscreenExit.e70a4bdd62c37f3df36a6282822d7e8e.svg",
+    "static/media/Forward.svg": "./static/media/Forward.a7858ebc388d52a43e4973129081bd81.svg",
+    "index.html": "./index.html",
+    "static/media/Fullscreen.svg": "./static/media/Fullscreen.1d379536212a5c1cdd9872d8bdfcc636.svg",
+    "static/media/Loading.svg": "./static/media/Loading.1a97df18c5bb10fa9de3a2ee8d2393dc.svg",
+    "main.6a7ce822.js.map": "./static/js/main.6a7ce822.js.map",
+    "787.898e1469.chunk.js.map": "./static/js/787.898e1469.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.6a7ce822.js"
+  ]
+}
